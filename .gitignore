@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+opencode
+opencode.bak-*
+*.new
+*.restore
